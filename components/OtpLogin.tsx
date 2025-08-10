@@ -230,7 +230,7 @@ function OtpLogin() {
             <Button
               variant="ghost"
               size="sm"
-              onClick={requestOtp}
+              onClick={() => requestOtp()}
               disabled={isPending}
               className="mt-2"
             >
