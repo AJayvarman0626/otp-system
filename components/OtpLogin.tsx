@@ -181,7 +181,7 @@ function OtpLogin() {
             required
           />
           <p className="text-xs text-gray-400 max-w-xs text-center">
-            It's Just a demo, only works with test phone numbers.
+            Its Just a demo setup, only works with test phone numbers.
           </p>
 
           <Button
